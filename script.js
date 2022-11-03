@@ -13,7 +13,6 @@ function imageMode(color) {
     image3.src = `img/undraw_conceptual_idea_${color}.svg`;
 }
 
-
 // Dark Mode Styles
 function darkMode() {
     nav.style.backgroundColor = 'rgb(0 0 0 / 50%)';
